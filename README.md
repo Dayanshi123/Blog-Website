@@ -42,7 +42,11 @@ A **full-stack blogging platform** where users can create, edit, and manage post
 │   ├── RTE.jsx             # TinyMCE Rich Text Editor Component
 │   ├── PostForm.jsx        # Form for Adding & Editing posts
 │   ├── PostCard.jsx        # Card view for posts
-│   ├── AuthLayout.jsx      # Authentication Wrapper
+│   ├── Login.jsx           # Login
+│   ├── Logo.jsx            # Logo
+│   ├── Signup.jsx          # Signup
+│   ├── index.js            # all files
+│   ├── Post.jsx            # Posts
 ├── 📂 pages                # Main Page Components
 │   ├── Home.jsx            # Home Page - Displays all posts
 │   ├── AddPost.jsx         # Page for creating a post
